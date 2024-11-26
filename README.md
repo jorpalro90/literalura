@@ -32,7 +32,7 @@ Antes de ejecutar el proyecto, asegúrate de tener lo siguiente instalado en tu 
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/literalura.git
+   git clone https://github.com/jorpalro90/literalura
    ```
 
 2. **Navega a la carpeta del proyecto**:
